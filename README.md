@@ -76,5 +76,8 @@ http://localhost:8000
 (or `http://localhost/supershop` if using XAMPP/WAMP).
 
 ## 📸 Screenshots
-<img width="1917" height="943" alt="image" src="https://github.com/user-attachments/assets/6e95e326-a76f-4a15-ba52-dbb325c655fe" />
-<img width="1916" height="941" alt="image" src="https://github.com/user-attachments/assets/6d66f61a-4c70-4b96-9342-da4b9e91e356" />
+<img width="1917" height="943" alt="Screenshot 2025-08-13 111839" src="https://github.com/user-attachments/assets/c2b53bba-8008-4d8b-bde8-7de4a6b4cfba" />
+
+<img width="1916" height="941" alt="Screenshot 2025-08-13 112127" src="https://github.com/user-attachments/assets/b3ff42fd-fc91-48bf-97ba-45aee4540307" />
+
+
